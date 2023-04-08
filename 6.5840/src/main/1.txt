@@ -1,0 +1,4 @@
+几个坑
+1.设置-race要么全设要么全不设置，不然plugin莫名打不开
+2.对于rpc的方法，返回必须是error，不然识别不了
+3.linux下排序方法使用export LC_ALL=C 不然Sort不区分大小写

@@ -1,0 +1,368 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-15 21:23:17,548 [   1633]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-15 21:23:17,560 [   1645]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-15 21:23:17,562 [   1647]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-15 21:23:17,563 [   1648]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-15 21:23:17,638 [   1723]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-15 21:23:17,669 [   1754]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-15 21:23:17,673 [   1758]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-15 21:23:17,674 [   1759]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-15 21:23:17,678 [   1763]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-15 21:23:17,765 [   1850]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-15 21:23:17,766 [   1851]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-15 21:23:17,767 [   1852]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-15 21:23:17,767 [   1852]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-15 21:23:17,768 [   1853]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-15 21:23:17,769 [   1854]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-15 21:23:19,434 [   3519]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 19:DefaultDispatcher-worker-8 | RdCoroutineHost overridden 
+2023-03-15 21:23:22,343 [   6428]   WARN - #c.i.o.a.i.ActionUpdater - 423 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-15 21:23:22,344 [   6429]   WARN - #c.i.o.a.i.ActionUpdater - 412 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-15 21:43:06,418 [1190503]   WARN - #c.i.o.o.n.SettingsTreeView$MyBuilder - 'AbstractTreeBuilder' is going to be dropped soon and must not be used
+com.intellij.diagnostic.PluginException: 'AbstractTreeBuilder' is going to be dropped soon and must not be used
+	at com.intellij.diagnostic.PluginProblemReporterImpl.createPluginExceptionByClass(PluginProblemReporterImpl.java:23)
+	at com.intellij.diagnostic.PluginException.createByClass(PluginException.java:83)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:60)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:55)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:47)
+	at com.intellij.ui.treeStructure.filtered.FilteringTreeBuilder.<init>(FilteringTreeBuilder.java:46)
+	at com.intellij.openapi.options.newEditor.SettingsTreeView$MyBuilder.<init>(SettingsTreeView.java:931)
+	at com.intellij.openapi.options.newEditor.SettingsTreeView.<init>(SettingsTreeView.java:174)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.treeViewFactory(SettingsDialog.java:89)
+	at com.intellij.openapi.options.newEditor.SettingsEditor.<init>(SettingsEditor.java:194)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.<init>(SettingsDialog.java:65)
+	at com.intellij.openapi.options.newEditor.SettingsDialogFactory.create(SettingsDialogFactory.java:38)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.getDialog(ShowSettingsUtilImpl.java:39)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.showSettingsDialog(ShowSettingsUtilImpl.java:134)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.showSettingsDialog(ShowSettingsUtilImpl.java:107)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.showSettingsDialog(ShowSettingsUtilImpl.java:99)
+	at com.intellij.ide.actions.ConfigureEditorTabsAction.actionPerformed(ConfigureEditorTabsAction.kt:12)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.doPerformActionOrShowPopup(ActionUtil.java:327)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAwareWithCallbacks$4(ActionUtil.java:306)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:350)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:306)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$performAction$5(ActionMenuItem.java:296)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.runOnOwnContext(FocusManagerImpl.java:226)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.performAction(ActionMenuItem.java:289)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$new$0(ActionMenuItem.java:64)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$fireActionPerformed$4(ActionMenuItem.java:111)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:94)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.fireActionPerformed(ActionMenuItem.java:111)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI.doClick(BegMenuItemUI.java:526)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI$MyMouseInputHandler.mouseReleased(BegMenuItemUI.java:558)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6648)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3392)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6413)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5022)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2802)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:781)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:754)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:752)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:751)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:909)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:831)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:753)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$5(IdeEventQueue.java:437)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:436)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:113)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:615)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:434)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:838)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:480)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2023-03-15 21:45:46,595 [1350680]   WARN - #c.i.o.o.e.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-20 20:03:02,714 [   1087]   WARN - #c.i.u.s.SvgCacheManager - Icon cache will be recreated or previous version of data reused, (db=/home/tyz/.cache/JetBrains/GoLand2022.3/icons-v6.db)
+2023-03-20 20:03:03,288 [   1661]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:03:03,356 [   1729]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:03:03,362 [   1735]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:03:03,363 [   1736]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:03:03,640 [   2013]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:03:03,681 [   2054]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-20 20:03:03,685 [   2058]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:03:03,686 [   2059]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:03:03,690 [   2063]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-20 20:03:03,794 [   2167]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-20 20:03:03,795 [   2168]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-20 20:03:03,796 [   2169]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-20 20:03:03,797 [   2170]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-20 20:03:03,800 [   2173]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-20 20:03:03,801 [   2174]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-20 20:03:05,358 [   3731]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 34:DefaultDispatcher-worker-20 | RdCoroutineHost overridden 
+2023-03-20 20:03:07,203 [   5576]   WARN - #c.i.o.a.i.ActionUpdater - 351 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:03:08,094 [   6467]   WARN - #c.i.o.a.i.ActionUpdater - 761 ms to grab EDT for CollapseAllAction#update@ToolwindowTitle (com.intellij.ide.actions.CollapseAllAction)
+2023-03-20 20:03:09,863 [   8236]   WARN - #c.i.o.a.i.ActionUpdater - 417 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2023-03-20 20:03:09,863 [   8236]   WARN - #c.i.o.a.i.ActionUpdater - 417 ms to grab EDT for ToolWindowHeader$2#getChildren@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:06:31,501 [ 209874]   WARN - #com.goide.formatter.service.GoFmtFormattingService - Failed to run gofmt on /home/tyz/GolandProjects/6.5840/src/main/mrworker.go
+2023-03-20 20:06:31,502 [ 209875]   WARN - #com.goide.formatter.service.GoFmtFormattingService - <standard input>:34:1: comment not terminated
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-20 20:12:13,859 [   1066]   WARN - #c.i.u.s.SvgCacheManager - Icon cache will be recreated or previous version of data reused, (db=/home/tyz/.cache/JetBrains/GoLand2022.3/icons-v6.db)
+2023-03-20 20:12:14,308 [   1515]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:12:14,321 [   1528]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:12:14,328 [   1535]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:12:14,329 [   1536]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-20 20:12:14,577 [   1784]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:12:14,623 [   1830]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-20 20:12:14,628 [   1835]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:12:14,629 [   1836]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-20 20:12:14,635 [   1842]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-20 20:12:14,732 [   1939]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-20 20:12:14,739 [   1946]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-20 20:12:14,753 [   1960]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-20 20:12:14,754 [   1961]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-20 20:12:14,755 [   1962]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-20 20:12:14,756 [   1963]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-20 20:12:16,683 [   3890]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 17:DefaultDispatcher-worker-6 | RdCoroutineHost overridden 
+2023-03-20 20:12:18,935 [   6142]   WARN - #c.i.o.a.i.ActionUpdater - 360 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:12:19,569 [   6776]   WARN - #c.i.o.a.i.ActionUpdater - 631 ms to grab EDT for ToolWindowHeader$2#getChildren@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:12:21,390 [   8597]   WARN - #c.i.o.a.i.ActionUpdater - 421 ms to grab EDT for FontEditorPreview$ToggleBoldFontAction#update@ContextToolbar (com.intellij.application.options.colors.FontEditorPreview$ToggleBoldFontAction)
+2023-03-20 20:12:23,270 [  10477]   WARN - #c.i.o.a.i.ActionUpdater - 381 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-20 20:12:23,289 [  10496]   WARN - #c.i.o.a.i.ActionUpdater - 339 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:13:31,115 [  78322]   WARN - #c.i.o.a.i.ActionUpdater - 493 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-20 20:13:31,260 [  78467]   WARN - #c.i.o.a.i.ActionUpdater - 311 ms to grab EDT for BranchesDashboardActions$HideBranchesAction#update@Git.Log.Branches (git4idea.ui.branch.dashboard.BranchesDashboardActions$HideBranchesAction)
+2023-03-20 20:14:31,296 [ 138503]   WARN - #c.i.o.a.e.ActionUtil - Can not find action by id CompileDirty
+2023-03-20 20:15:14,864 [ 182071]   WARN - #c.i.o.o.n.SettingsTreeView$MyBuilder - 'AbstractTreeBuilder' is going to be dropped soon and must not be used
+com.intellij.diagnostic.PluginException: 'AbstractTreeBuilder' is going to be dropped soon and must not be used
+	at com.intellij.diagnostic.PluginProblemReporterImpl.createPluginExceptionByClass(PluginProblemReporterImpl.java:23)
+	at com.intellij.diagnostic.PluginException.createByClass(PluginException.java:83)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:60)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:55)
+	at com.intellij.ide.util.treeView.AbstractTreeBuilder.<init>(AbstractTreeBuilder.java:47)
+	at com.intellij.ui.treeStructure.filtered.FilteringTreeBuilder.<init>(FilteringTreeBuilder.java:46)
+	at com.intellij.openapi.options.newEditor.SettingsTreeView$MyBuilder.<init>(SettingsTreeView.java:931)
+	at com.intellij.openapi.options.newEditor.SettingsTreeView.<init>(SettingsTreeView.java:174)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.treeViewFactory(SettingsDialog.java:89)
+	at com.intellij.openapi.options.newEditor.SettingsEditor.<init>(SettingsEditor.java:194)
+	at com.intellij.openapi.options.newEditor.SettingsDialog.<init>(SettingsDialog.java:65)
+	at com.intellij.openapi.options.newEditor.SettingsDialogFactory.create(SettingsDialogFactory.java:38)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.getDialog(ShowSettingsUtilImpl.java:39)
+	at com.intellij.ide.actions.ShowSettingsUtilImpl.showSettingsDialog(ShowSettingsUtilImpl.java:90)
+	at com.intellij.ide.actions.ShowSettingsAction.perform(ShowSettingsAction.java:60)
+	at com.intellij.ide.actions.ShowSettingsAction.actionPerformed(ShowSettingsAction.java:47)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.doPerformActionOrShowPopup(ActionUtil.java:327)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAwareWithCallbacks$4(ActionUtil.java:306)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:350)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:306)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$performAction$5(ActionMenuItem.java:296)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.runOnOwnContext(FocusManagerImpl.java:226)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.performAction(ActionMenuItem.java:289)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$new$0(ActionMenuItem.java:64)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.lambda$fireActionPerformed$4(ActionMenuItem.java:111)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:94)
+	at com.intellij.openapi.actionSystem.impl.ActionMenuItem.fireActionPerformed(ActionMenuItem.java:111)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI.doClick(BegMenuItemUI.java:526)
+	at com.intellij.ui.plaf.beg.BegMenuItemUI$MyMouseInputHandler.mouseReleased(BegMenuItemUI.java:558)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6648)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3392)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6413)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5022)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2802)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:781)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:754)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:752)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:751)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:909)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:831)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:753)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$5(IdeEventQueue.java:437)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:436)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:113)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:615)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:434)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:838)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:480)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-21 22:37:13,994 [   1682]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-21 22:37:14,015 [   1703]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-21 22:37:14,020 [   1708]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-21 22:37:14,021 [   1709]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-21 22:37:14,234 [   1922]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-21 22:37:14,294 [   1982]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-21 22:37:14,299 [   1987]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-21 22:37:14,300 [   1988]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-21 22:37:14,305 [   1993]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-21 22:37:14,391 [   2079]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-21 22:37:14,395 [   2083]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-21 22:37:14,396 [   2084]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-21 22:37:14,400 [   2088]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-21 22:37:14,401 [   2089]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-21 22:37:14,402 [   2090]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-21 22:37:15,979 [   3667]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 41:DefaultDispatcher-worker-24 | RdCoroutineHost overridden 
+2023-03-21 22:37:19,178 [   6866]   WARN - #c.i.o.a.i.ActionUpdater - 395 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2023-03-21 22:37:19,180 [   6868]   WARN - #c.i.o.a.i.ActionUpdater - 326 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-21 22:37:20,810 [   8498]   WARN - #c.i.o.a.i.ActionUpdater - 488 ms to grab EDT for EditorMarkupModelImpl$TrafficLightAction#update@EditorInspectionsToolbar (com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction)
+2023-03-21 22:37:21,434 [   9122]   WARN - #c.i.o.a.i.ActionUpdater - 554 ms to grab EDT for FontEditorPreview$ToggleBoldFontAction#update@ContextToolbar (com.intellij.application.options.colors.FontEditorPreview$ToggleBoldFontAction)
+2023-03-21 23:27:56,074 [3043762]   WARN - #c.i.p.i.s.c.FormattingRangesExtender - The given range 2741 exceeds the document length 2740
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-23 11:23:02,811 [   1796]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-23 11:23:02,909 [   1894]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-23 11:23:02,911 [   1896]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-23 11:23:02,913 [   1898]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-23 11:23:03,363 [   2348]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-23 11:23:03,426 [   2411]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-23 11:23:03,430 [   2415]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-23 11:23:03,432 [   2417]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-23 11:23:03,436 [   2421]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-23 11:23:03,702 [   2687]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-23 11:23:03,703 [   2688]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-23 11:23:03,704 [   2689]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-23 11:23:03,705 [   2690]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-23 11:23:03,705 [   2690]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-23 11:23:03,705 [   2690]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-23 11:23:06,166 [   5151]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 43:DefaultDispatcher-worker-26 | RdCoroutineHost overridden 
+2023-03-23 11:23:07,984 [   6969]   WARN - #c.i.o.a.i.ActionUpdater - 359 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-23 11:23:09,002 [   7987]   WARN - #c.i.o.a.e.ActionUtil - Can not find action by id CompileDirty
+2023-03-23 11:23:09,389 [   8374]   WARN - #c.i.o.a.i.ActionUpdater - 1390 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-23 11:23:14,681 [  13666]   WARN - #c.i.o.a.i.ActionUpdater - 405 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2023-03-23 11:23:14,683 [  13668]   WARN - #c.i.o.a.i.ActionUpdater - 393 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2023-03-25 21:43:26,590 [   1740]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-25 21:43:26,606 [   1756]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-25 21:43:26,607 [   1757]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-25 21:43:26,608 [   1758]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/usr/local/GoLand/lib, version=223.8836.34, package=com.intellij.structuralsearch, isBundled=true)
+2023-03-25 21:43:26,807 [   1957]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=HTML Tools, id=HtmlTools, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/html-tools, version=223.8836.34, package=null, isBundled=true)
+2023-03-25 21:43:26,859 [   2009]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/vcs-github, version=223.8836.34, package=org.jetbrains.plugins.github, isBundled=true)
+2023-03-25 21:43:26,864 [   2014]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-25 21:43:26,865 [   2015]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=JavaScript and TypeScript, id=JavaScript, descriptorPath=plugin.xml, path=/usr/local/GoLand/plugins/javascript-impl, version=223.8836.34, package=null, isBundled=true)
+2023-03-25 21:43:26,870 [   2020]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Space, id=com.jetbrains.space, moduleName=intellij.space.vcs, descriptorPath=intellij.space.vcs.xml, path=/usr/local/GoLand/plugins/space, version=223.8836.34, package=com.intellij.space.vcs, isBundled=true)
+2023-03-25 21:43:26,991 [   2141]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.replace' is overridden by: id = [editing.completion.replace], displayName = [Replace By when using lookup], groupId = [completion], usageCount = [0]
+2023-03-25 21:43:26,992 [   2142]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByCtrlDot' is overridden by: id = [editing.completion.finishByCtrlDot], displayName = [Finish lookup with Ctrl+Dot], groupId = [completion], usageCount = [0]
+2023-03-25 21:43:26,999 [   2149]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'editing.completion.finishByDotEtc' is overridden by: id = [editing.completion.finishByDotEtc], displayName = [Finish lookup with special characters], groupId = [completion], usageCount = [0]
+2023-03-25 21:43:27,000 [   2150]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'scratch' is overridden by: id = [scratch], displayName = [New scratch file], groupId = [editing], usageCount = [0]
+2023-03-25 21:43:27,001 [   2151]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.quickdefinition' is overridden by: id = [codeassists.quickdefinition], displayName = [Quick Definition lookup], groupId = [codeassists], usageCount = [0]
+2023-03-25 21:43:27,002 [   2152]   WARN - #c.i.f.ProductivityFeaturesRegistryImpl - Feature with id 'codeassists.comment.line' is overridden by: id = [codeassists.comment.line], displayName = [Comment or uncomment the current line], groupId = [codeassists], usageCount = [0]
+2023-03-25 21:43:28,890 [   4040]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 12:DefaultDispatcher-worker-1 | RdCoroutineHost overridden 
+2023-03-25 21:43:30,508 [   5658]   WARN - #c.i.o.a.e.ActionUtil - Can not find action by id CompileDirty
+2023-03-25 21:43:31,330 [   6480]   WARN - #c.i.o.a.i.ActionUpdater - 582 ms to grab EDT for SeverityFiltersActionGroup#update@com.intellij.analysis.problemsView.toolWindow.HighlightingPanel (com.intellij.analysis.problemsView.toolWindow.SeverityFiltersActionGroup)
+2023-03-25 21:43:49,991 [  25141]   WARN - #c.i.u.i.d.ChangedFilesPushedDiagnostic - Failed to read /home/tyz/.cache/JetBrains/GoLand2022.3/log/indexing-diagnostic/6.5840.ef7a0d9e/changed-files-pushing-events.json
+com.fasterxml.jackson.core.JsonParseException: Illegal character ((CTRL-CHAR, code 0)): only regular white space (\r, \n, \t) is allowed between tokens
+ at [Source: (String)"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"; line: 1, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2418)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:749)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._throwInvalidSpace(ParserMinimalBase.java:727)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWSOrEnd(ReaderBasedJsonParser.java:2532)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:698)
+	at com.fasterxml.jackson.databind.ObjectMapper._initForReading(ObjectMapper.java:4784)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4690)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3652)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3635)
+	at com.intellij.util.indexing.diagnostic.ChangedFilesPushedDiagnostic.readEvents(ChangedFilesPushedDiagnostic.kt:68)
+	at com.intellij.util.indexing.diagnostic.IndexDiagnosticDumper.dumpProjectIndexingHistoryToLogSubdirectory(IndexDiagnosticDumper.kt:208)
+	at com.intellij.util.indexing.diagnostic.IndexDiagnosticDumper.onIndexingFinished$lambda$0(IndexDiagnosticDumper.kt:161)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:243)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.executeFirstTaskAndHelpQueue(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:208)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:702)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:699)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:699)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-03-25 21:43:54,015 [  29165] SEVERE - #c.i.v.l.d.i.IndexDiagnosticRunner - IdeaLoggingEvent[message=Index is corrupted, throwable=java.lang.RuntimeException: Index is corrupted
+	at com.intellij.vcs.log.data.index.IndexDiagnosticRunner.runDiagnostic(IndexDiagnosticRunner.kt:54)
+	at com.intellij.vcs.log.data.index.IndexDiagnosticRunner.onDataPackChange(IndexDiagnosticRunner.kt:66)
+	at com.intellij.vcs.log.data.VcsLogData.fireDataPackChangeEvent(VcsLogData.java:246)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl.lambda$new$0(VcsLogRefresherImpl.java:81)
+	at com.intellij.vcs.log.data.SingleTaskController.taskCompleted(SingleTaskController.java:156)
+	at com.intellij.vcs.log.data.VcsLogRefresherImpl$MyRefreshTask.run(VcsLogRefresherImpl.java:220)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.startTask(CoreProgressManager.java:429)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.startTask(ProgressManagerImpl.java:114)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcessWithProgressAsynchronously$6(CoreProgressManager.java:480)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$3(ProgressRunner.java:252)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:186)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$executeProcessUnderProgress$13(CoreProgressManager.java:604)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:679)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computeUnderProgress(CoreProgressManager.java:635)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:603)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:60)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:173)
+	at com.intellij.openapi.progress.impl.ProgressRunner.lambda$submit$4(ProgressRunner.java:252)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:702)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:699)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:699)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+]
+2023-03-25 22:15:28,131 [1923281]   WARN - #c.i.u.i.d.ChangedFilesPushedDiagnostic - Failed to read /home/tyz/.cache/JetBrains/GoLand2022.3/log/indexing-diagnostic/6.5840.ef7a0d9e/changed-files-pushing-events.json
+com.fasterxml.jackson.core.JsonParseException: Illegal character ((CTRL-CHAR, code 0)): only regular white space (\r, \n, \t) is allowed between tokens
+ at [Source: (String)"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000{"reason":"Push on VFS changes","startTime":"2023-03-25T22:15:27.745925379+08:00[Asia/Shanghai]","duration":24096769,"isCancelled":false}"; line: 1, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2418)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:749)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._throwInvalidSpace(ParserMinimalBase.java:727)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipWSOrEnd(ReaderBasedJsonParser.java:2532)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:698)
+	at com.fasterxml.jackson.databind.ObjectMapper._initForReading(ObjectMapper.java:4784)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4690)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3652)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3635)
+	at com.intellij.util.indexing.diagnostic.ChangedFilesPushedDiagnostic.readEvents(ChangedFilesPushedDiagnostic.kt:68)
+	at com.intellij.util.indexing.diagnostic.IndexDiagnosticDumper.dumpProjectIndexingHistoryToLogSubdirectory(IndexDiagnosticDumper.kt:208)
+	at com.intellij.util.indexing.diagnostic.IndexDiagnosticDumper.onIndexingFinished$lambda$0(IndexDiagnosticDumper.kt:161)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:243)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:29)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.executeFirstTaskAndHelpQueue(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:208)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:702)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:699)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:699)
+	at java.base/java.lang.Thread.run(Thread.java:833)
